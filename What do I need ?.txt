@@ -1,22 +1,21 @@
-What Do I Need?
-----------------
+What do I need ?
 
-Materials & Components:
 
-1. 0.6 mm wood panels — enough to laser-cut all required parts
-2. Access to a laser cutter
-3. Raspberry Pi 3 or 4 (Model A or B) — must have enough RAM and I/O ports
-4. 4× 90-degree bent aluminum pieces for the legs
-5. IR webcam — https://a.co/d/1CEWdJr
-6. Wood sealant — anything that prevents moisture/rot
-7. Generic screw-locking mechanism for the electronics service door
-8. Knob for the electronics service door
-9. 12 V battery — must fit inside the battery compartment
-10. 12V/24V to USB-C adapter — https://a.co/d/bGvNEJu
-11. Soldering iron and solder — for wiring the adapter
-12. Generic LEDs and jumper wires
-13. Drill (optional)
-14. SIM card with LTE/5G and SMS
-15. SIM card module — LTE Cat-4 EG25-GL HAT: https://www.seeedstudio.com/LTE-CAT-4-EG25-GL-HAT-for-Raspberry-Pi-p-6325.html
-16. Motor (type undecided)
-17. Food (very important)
+1- 0.6mm Wood panels (however much you need to cut every part out)
+2- Access to a laser cutter for the Wood panels
+3- A raspberry pi 3/4 A/B So long as it has enough ram to run the software and enough I/O ports
+4- 4x 90 degree bent aluminium pieces for the legs
+5- https://a.co/d/1CEWdJr  IR webcam
+6- Sealant (any type works, so long as it keeps the wood from getting wet and rotting)
+7-Any sort of generic screwed locking mechanism which you can lock with a lock (for the electronics service door)
+8- knob (for the electronics service door)
+9- any 12 volt battery, so long as they don't exceed the dimensions of the battery compartment
+10- https://a.co/d/bGvNEJu 12v/24v to usb c adapter
+11- access to a soldering iron and solder for the adapter
+12- Any generic LED's and jumper cables
+13- drill (highly optional)
+14- Sim card with lte/5g and sms
+15- sim card module:https://www.seeedstudio.com/LTE-CAT-4-EG25-GL-HAT-for-Raspberry-Pi-p-6325.html
+16- motor (undecided for now)
+17- And finally but not least, FOOD !!!!
+
