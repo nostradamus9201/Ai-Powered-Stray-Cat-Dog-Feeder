@@ -1,0 +1,22 @@
+What Do I Need?
+----------------
+
+Materials & Components:
+
+1. 0.6 mm wood panels — enough to laser-cut all required parts
+2. Access to a laser cutter
+3. Raspberry Pi 3 or 4 (Model A or B) — must have enough RAM and I/O ports
+4. 4× 90-degree bent aluminum pieces for the legs
+5. IR webcam — https://a.co/d/1CEWdJr
+6. Wood sealant — anything that prevents moisture/rot
+7. Generic screw-locking mechanism for the electronics service door
+8. Knob for the electronics service door
+9. 12 V battery — must fit inside the battery compartment
+10. 12V/24V to USB-C adapter — https://a.co/d/bGvNEJu
+11. Soldering iron and solder — for wiring the adapter
+12. Generic LEDs and jumper wires
+13. Drill (optional)
+14. SIM card with LTE/5G and SMS
+15. SIM card module — LTE Cat-4 EG25-GL HAT: https://www.seeedstudio.com/LTE-CAT-4-EG25-GL-HAT-for-Raspberry-Pi-p-6325.html
+16. Motor (type undecided)
+17. Food (very important)
